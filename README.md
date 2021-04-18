@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yair Bartfeld
 - 👀 I’m looking for my first job, the job must to be an intersting and challenging.
-- 🌱 I’m currently learning Web development and advancig courses in Python and C++ in "ExcellentTeam" program.
+- 🌱 I’m currently learning web development in addition to advanced courses in Python and C++ in "ExcellentTeam" program.
 - ✍ My projects summary:
 
     💐 flowerStore: Online flower shop.
