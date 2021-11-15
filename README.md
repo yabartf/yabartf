@@ -1,18 +1,20 @@
 - 👋 Hi, I’m Yair Bartfeld
-- 👀 I’m looking for my first job, the job must to be an intersting and challenging.
-- 🌱 I’m currently learning web development in addition to advanced courses in Python and C++ in "ExcellentTeam" program.
+- 👀 I’m always open for challenges and new interesting opportunities.
+- 🌱 I’m currently working as a FullStack Developer at Epr Systems. 
+- In my work, I independently build a new site in Angular for more than 130 authorities and am responsible for managing all the data in the SQL Database and improvements for - existing products   
+- 🌏 I'm trying to be broad-minded and my current stack is: Android Development, Web Development, Windows App Development, and DataBases management.
 - ✍ My projects summary:
 
-    💐 flowerStore: Online flower shop.
+    💐 Volunteer Management.
     
       - Managing all data by MongoDB – mongoose, MVC architecture
-      - UI technologic: JS, HTML, CSS, jQuery, Ajax, Ejs
-      - Server technologic: NodeJS, Express, Multer
+      - UI technologic: TypeScript, HTML, CSS, Angular
+      - Server technologic: NodeJS, Express, Multer, Google services, JWT
 
 
-    🛩 mini-project-C-Sharp-WPF: Connecting between clients to vacation unit owners.
+    🛩 Management-of-accommodation-units:  Connecting between clients to vacation unit owners.
     
-      - Built according to OOP principles, SOLID methodologies, and design patterns
+      - Built according to OOP principles, SOLID methodologies, and Design patterns as Singelton, Fuctory method
       - The UI and the data separated by using the Three-Layer architecture
       - WPF as a UI, XML as the database
       
