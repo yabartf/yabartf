@@ -2,6 +2,7 @@
 - 👀 I’m always open for challenges and new interesting opportunities.
 - 🌱 I’m currently working as a FullStack Developer at Epr Systems. 
 - In my work, I independently build a new site in Angular for more than 130 authorities and am responsible for managing all the data in the SQL Database and improvements for - existing products   
+- 🏢 During my studies I participated in the "ExcellentTeam" - Outstanding Program. In the program we learned advanced topics in C++ and Python.
 - 🌏 I'm trying to be broad-minded and my current stack is: Android Development, Web Development, Windows App Development, and DataBases management.
 - ✍ My projects summary:
 
